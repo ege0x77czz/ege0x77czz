@@ -41,14 +41,6 @@ fn main() {
 #### stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ege0x77czz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege0x77czz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ege0x77czz&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
