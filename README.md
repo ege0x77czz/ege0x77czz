@@ -53,7 +53,6 @@ fn main() {
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31axjo23zgookhwxtb2xno2bgoe4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=540297&bar_color_cover=true&mode=dark">
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ege0x77czz&color=blueviolet&style=flat-square" />
