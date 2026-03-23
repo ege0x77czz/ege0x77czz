@@ -1,75 +1,79 @@
-## hey, im ege
+<div align="center">
 
-i like breaking things apart to understand how they work, then building something better. mostly into low-level stuff, backend systems, and whatever catches my attention at 3am.
-
-```go
-package main
-
-type ege struct {
-    age      int
-    location string
-    stack    []string
-    mood     string
+```rust
+struct Ege {
+    age:      u8,
+    location: &'static str,
+    stack:    Vec<&'static str>,
+    status:   &'static str,
 }
 
-func main() {
-    me := ege{
+fn main() {
+    let me = Ege {
         age:      18,
         location: "turkey",
-        stack:    []string{"rust", "go", "js", "java", "python"},
-        mood:     "mass scraping something probably",
-    }
+        stack:    vec!["rust", "go", "js", "java", "python"],
+        status:   "scraping something at 3am probably",
+    };
 
-    for {
-        me.code()
-        me.break_stuff()
-        me.fix_it_eventually()
+    loop {
+        me.break_stuff();
+        me.figure_out_why();
+        me.rebuild_it_better();
     }
 }
 ```
 
----
-
-<p align="center">
-  <a href="https://discord.com/users/egeevvl">
-    <img src="https://img.shields.io/badge/discord-egeevvl-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/ege0x77czz">
-    <img src="https://img.shields.io/badge/github-ege0x77czz-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-#### things i use
+18 y/o dev from turkey. i like ripping things apart to understand how they work, then building something better from the pieces.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,js,nodejs,java,python,linux,docker,git,vscode&perline=5" />
-</p>
+low-level stuff, backend systems, and whatever grabs my attention when i should be sleeping. if it runs, don't touch it. if it breaks, that's tomorrow's problem.
 
 ---
 
-#### stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ege0x77czz&theme=black-ice&hide_border=true&background=0d1117&stroke=0d1117" />
-</p>
+#### `toolbox`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ege0x77czz&show_icons=true&theme=black-ice&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege0x77czz&layout=compact&theme=black-ice&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" />
-</p>
+<img src="https://skillicons.dev/icons?i=rust,go,js,nodejs,java,python,linux,docker,git,vscode&perline=5" />
+
+</div>
 
 ---
 
-#### currently listening to
+<div align="center">
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31axjo23zgookhwxtb2xno2bgoe4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31axjo23zgookhwxtb2xno2bgoe4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=true" />
-  </a>
-</p>
+#### `stats`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ege0x77czz&color=58a6ff&style=flat-square&label=profile+views" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ege0x77czz&theme=black-ice&hide_border=true&background=0d1117&stroke=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ege0x77czz&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=A855F7&title_color=A855F7&text_color=8b949e&ring_color=A855F7" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege0x77czz&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=8b949e" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+#### `now playing`
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31axjo23zgookhwxtb2xno2bgoe4&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31axjo23zgookhwxtb2xno2bgoe4&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=A855F7&bar_color_cover=true" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+[![discord](https://img.shields.io/badge/discord-egeevvl-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/egeevvl)
+[![github](https://img.shields.io/badge/github-ege0x77czz-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ege0x77czz)
+
+<img src="https://komarev.com/ghpvc/?username=ege0x77czz&color=A855F7&style=flat-square&label=views" />
+
+</div>
