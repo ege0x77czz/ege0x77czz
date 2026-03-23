@@ -2,18 +2,18 @@
 
 ```rust
 struct Ege {
-    age:      u8,
+    age: u8,
     location: &'static str,
-    stack:    Vec<&'static str>,
-    status:   &'static str,
+    stack: Vec<&'static str>,
+    status: &'static str,
 }
 
 fn main() {
     let me = Ege {
-        age:      18,
+        age: 18,
         location: "turkey",
-        stack:    vec!["rust", "go", "js", "java", "python"],
-        status:   "scraping something at 3am probably",
+        stack: vec!["rust", "go", "js", "java", "python"],
+        status: "scraping something at 3am probably",
     };
 
     loop {
