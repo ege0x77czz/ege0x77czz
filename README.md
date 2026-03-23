@@ -1,33 +1,5 @@
 <div align="center">
-
-```rust
-struct Ege {
-    age: u8,
-    location: &'static str,
-    stack: Vec<&'static str>,
-    status: &'static str,
-}
-
-fn main() {
-    let me = Ege {
-        age: 18,
-        location: "turkey",
-        stack: vec!["rust", "go", "js", "java", "python"],
-        status: "scraping something at 3am probably",
-    };
-
-    loop {
-        me.break_stuff();
-        me.figure_out_why();
-        me.rebuild_it_better();
-    }
-}
-```
-
-</div>
-
----
-
+    
 18 y/o dev from turkey. i like ripping things apart to understand how they work, then building something better from the pieces.
 
 low-level stuff, backend systems, and whatever grabs my attention when i should be sleeping. if it runs, don't touch it. if it breaks, that's tomorrow's problem.
